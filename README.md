@@ -1,11 +1,12 @@
-<div align="center">
+# TikTok Seeding OS
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+**TikTok Seeding OS**는 인플루언서 마케팅 에이전시와 브랜드가 대규모 시딩(제품 협찬) 캠페인을 효율적으로 관리하고, 크리에이터와의 협상부터 정산까지의 전 과정을 통합 관리하기 위해 설계된 엔터프라이즈급 대시보드입니다.
 
-  <h1>Built with AI Studio</h2>
+---
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 1. 개발 배경 (Background)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+### 문제점 (Pain Points)
+*   **운영 비효율:** 수백 명의 크리에이터 리스트를 엑셀로 관리하고, 개별 이메일/DM으로 소통하며 발생하는 휴먼 에러와 시간 소모.
+*   **데이터 파편화:** 배송 정보(택배사), 계약 상태(전자계약), 콘텐츠 성과(틱톡/유튜브), 정산 내역(회계)이 각기 다른 툴에 분산되어 있음.
+*   **전략 부재:** 크리에이터별 협상 히스토리가 개인 메일함에 묻혀있어, 최적의 단가 협상이나
