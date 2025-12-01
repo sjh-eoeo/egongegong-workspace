@@ -2,6 +2,16 @@
 
 **TikTok Seeding OS**는 인플루언서 마케팅 에이전시와 브랜드가 대규모 시딩(제품 협찬) 캠페인을 효율적으로 관리하고, 크리에이터와의 협상부터 정산까지의 전 과정을 통합 관리하기 위해 설계된 엔터프라이즈급 대시보드입니다.
 
+## 시작하기
+
+```bash
+cd egongegong-next
+pnpm install
+pnpm dev
+```
+
+http://localhost:3000 에서 앱을 확인할 수 있습니다.
+
 ---
 
 ## 1. 개발 배경 (Background)
